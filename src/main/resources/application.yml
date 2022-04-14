@@ -1,0 +1,19 @@
+server:
+  port: 9192
+spring:
+  application:
+    name: Microservice Secure Platform Solutions
+  data:
+    mongodb:
+      database: secure-platform-solutions
+      port: 2701
+      host: localhost
+  profiles:
+    actives: prod, dev, qa
+info:
+  app:
+    name: Secure Platform Solutions Microservice
+    version: 1.0
+    decription: CRUD Users | Solutions | Profiles Microservice
+
+
