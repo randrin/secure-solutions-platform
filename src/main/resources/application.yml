@@ -14,6 +14,6 @@ info:
   app:
     name: Secure Platform Solutions Microservice
     version: 1.0
-    decription: CRUD Users | Solutions | Profiles Microservice
+    decription: CRUD Users | Solutions | Profiles | Activities Microservice
 
 
